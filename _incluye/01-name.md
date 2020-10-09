@@ -1,2 +1,2 @@
-# GARAZI
+# GARAZi
 # LASA
